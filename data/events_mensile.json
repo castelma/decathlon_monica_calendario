@@ -1188,6 +1188,30 @@
     "uid": "2026-04-26-15:15-A-Cashier@effiplan-pdf"
   },
   {
+    "date": "2026-04-28",
+    "start": "09:30",
+    "end": "10:00",
+    "title": "R-General",
+    "notes": "Attribuzione : R-General (R-01001162) | Luogo : General Services (01001162) | Attività/Qualif. : Scarico (R)",
+    "uid": "2026-04-28-09:30-R-General@effiplan-pdf"
+  },
+  {
+    "date": "2026-04-28",
+    "start": "10:00",
+    "end": "13:00",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-04-28-10:00-V-Negozio@effiplan-pdf"
+  },
+  {
+    "date": "2026-04-28",
+    "start": "14:00",
+    "end": "17:30",
+    "title": "V-Negozio",
+    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
+    "uid": "2026-04-28-14:00-V-Negozio@effiplan-pdf"
+  },
+  {
     "date": "2026-04-30",
     "start": "08:30",
     "end": "13:30",
@@ -1197,19 +1221,19 @@
   },
   {
     "date": "2026-04-30",
+    "start": "08:30",
+    "end": "14:30",
+    "title": "O.SUPP (O.SUPP)",
+    "notes": "(O.SUPP) O.SUPP (08:30 - 14:30) | Orario: 08:30 - 14:30",
+    "uid": "2026-04-30-08:30-O.SUPP_(O.SUPP)@effiplan-pdf"
+  },
+  {
+    "date": "2026-04-30",
     "start": "13:30",
     "end": "14:30",
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
     "uid": "2026-04-30-13:30-V-Negozio@effiplan-pdf"
-  },
-  {
-    "date": "2026-04-30",
-    "start": "15:00",
-    "end": "16:00",
-    "title": "V-Negozio",
-    "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-04-30-15:00-V-Negozio@effiplan-pdf"
   },
   {
     "date": "2026-05-02",
@@ -1226,14 +1250,6 @@
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
     "uid": "2026-05-02-13:30-V-Negozio@effiplan-pdf"
-  },
-  {
-    "date": "2026-05-06",
-    "start": "14:00",
-    "end": "15:00",
-    "title": "COL (COLLOQUIO)",
-    "notes": "(COLLOQUIO) COLLOQUIO (14:00 - 15:00) | Orario: 14:00 - 15:00",
-    "uid": "2026-05-06-14:00-COL_(COLLOQUIO)@effiplan-pdf"
   },
   {
     "date": "2026-05-13",
@@ -1303,22 +1319,6 @@
     "title": "? RicIndis (INDISPO)",
     "notes": "Richiesta in attesa (INDISPO)",
     "uid": "2026-07-12-allday-?_RicIndis_(INDISPO)@effiplan-pdf"
-  },
-  {
-    "date": "2026-08-05",
-    "start": "20:30",
-    "end": "21:30",
-    "title": "RIU (RIUNIONE)",
-    "notes": "(RIUNIONE) RIUNIONE (20:30 - 21:30) | Orario: 20:30 - 21:30",
-    "uid": "2026-08-05-20:30-RIU_(RIUNIONE)@effiplan-pdf"
-  },
-  {
-    "date": "2026-08-28",
-    "start": "14:00",
-    "end": "15:00",
-    "title": "COL (COLLOQUIO)",
-    "notes": "(COLLOQUIO) COLLOQUIO (14:00 - 15:00) | Orario: 14:00 - 15:00",
-    "uid": "2026-08-28-14:00-COL_(COLLOQUIO)@effiplan-pdf"
   },
   {
     "date": "2026-09-04",
