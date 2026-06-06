@@ -112,20 +112,20 @@
     "uid": "2026-06-16-14:00-V-Negozio@effiplan-pdf"
   },
   {
-    "date": "2026-06-17",
-    "start": "14:15",
-    "end": "15:15",
+    "date": "2026-06-18",
+    "start": "08:30",
+    "end": "10:30",
     "title": "A-Cashier",
     "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
-    "uid": "2026-06-17-14:15-A-Cashier@effiplan-pdf"
+    "uid": "2026-06-18-08:30-A-Cashier@effiplan-pdf"
   },
   {
-    "date": "2026-06-17",
-    "start": "15:15",
-    "end": "20:15",
+    "date": "2026-06-18",
+    "start": "10:30",
+    "end": "14:30",
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-06-17-15:15-V-Negozio@effiplan-pdf"
+    "uid": "2026-06-18-10:30-V-Negozio@effiplan-pdf"
   },
   {
     "date": "2026-06-19",
@@ -176,20 +176,12 @@
     "uid": "2026-06-21-09:30-V-Negozio@effiplan-pdf"
   },
   {
-    "date": "2026-06-22",
-    "start": "08:30",
-    "end": "09:30",
-    "title": "A-Cashier",
-    "notes": "Attribuzione : A-Cashier (A-02001162) | Luogo : Cashier Services (02001162) | Attività/Qualif. : Accoglienza (A)",
-    "uid": "2026-06-22-08:30-A-Cashier@effiplan-pdf"
-  },
-  {
-    "date": "2026-06-22",
-    "start": "09:30",
-    "end": "14:30",
+    "date": "2026-06-23",
+    "start": "14:00",
+    "end": "20:00",
     "title": "V-Negozio",
     "notes": "Attribuzione : V-Negozio (V-00025669) | Luogo : Negozio Ivrea (00025669) | Attività/Qualif. : Vendita (V)",
-    "uid": "2026-06-22-09:30-V-Negozio@effiplan-pdf"
+    "uid": "2026-06-23-14:00-V-Negozio@effiplan-pdf"
   },
   {
     "date": "2026-06-25",
