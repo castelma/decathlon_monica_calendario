@@ -1,47 +1,56 @@
 [
   {
-    "date": "2026-06-29",
-    "end_date": "2026-06-30",
+    "date": "2026-07-06",
+    "end_date": "2026-07-07",
     "start": null,
     "end": null,
     "title": "FERIE",
     "notes": "",
-    "uid": "2026-06-29-allday-FERIE@effiplan-html"
+    "uid": "2026-07-06-allday-FERIE@effiplan-html"
   },
   {
-    "date": "2026-06-30",
-    "end_date": "2026-07-01",
+    "date": "2026-07-07",
+    "end_date": "2026-07-08",
     "start": null,
     "end": null,
     "title": "FERIE",
     "notes": "",
-    "uid": "2026-06-30-allday-FERIE@effiplan-html"
+    "uid": "2026-07-07-allday-FERIE@effiplan-html"
   },
   {
-    "date": "2026-07-01",
-    "end_date": "2026-07-02",
+    "date": "2026-07-08",
+    "end_date": "2026-07-09",
     "start": null,
     "end": null,
     "title": "FERIE",
     "notes": "",
-    "uid": "2026-07-01-allday-FERIE@effiplan-html"
+    "uid": "2026-07-08-allday-FERIE@effiplan-html"
   },
   {
-    "date": "2026-07-02",
-    "end_date": "2026-07-03",
+    "date": "2026-07-09",
+    "end_date": "2026-07-10",
     "start": null,
     "end": null,
     "title": "FERIE",
     "notes": "",
-    "uid": "2026-07-02-allday-FERIE@effiplan-html"
+    "uid": "2026-07-09-allday-FERIE@effiplan-html"
   },
   {
-    "date": "2026-07-03",
-    "end_date": "2026-07-04",
+    "date": "2026-07-10",
+    "end_date": "2026-07-11",
     "start": null,
     "end": null,
     "title": "FERIE",
     "notes": "",
-    "uid": "2026-07-03-allday-FERIE@effiplan-html"
+    "uid": "2026-07-10-allday-FERIE@effiplan-html"
+  },
+  {
+    "date": "2026-07-12",
+    "end_date": "2026-07-13",
+    "start": null,
+    "end": null,
+    "title": "INDISPO",
+    "notes": "",
+    "uid": "2026-07-12-allday-INDISPO@effiplan-html"
   }
 ]
