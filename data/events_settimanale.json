@@ -34,33 +34,17 @@
   {
     "date": "2026-07-24",
     "start": "14:00",
-    "end": "15:00",
-    "title": "COLLOQUIO",
-    "notes": "tag",
-    "uid": "2026-07-24-14:00-COLLOQUIO@effiplan-html"
-  },
-  {
-    "date": "2026-07-24",
-    "start": "15:00",
-    "end": "18:00",
-    "title": "TRUCKTOPEG",
-    "notes": "",
-    "uid": "2026-07-24-15:00-TRUCKTOPEG@effiplan-html"
-  },
-  {
-    "date": "2026-07-24",
-    "start": "18:00",
     "end": "20:00",
-    "title": "V-Negozio",
-    "notes": "",
-    "uid": "2026-07-24-18:00-V-Negozio@effiplan-html"
+    "title": "MALATTIA",
+    "notes": "tag",
+    "uid": "2026-07-24-14:00-MALATTIA@effiplan-html"
   },
   {
     "date": "2026-07-25",
     "start": "14:00",
     "end": "20:00",
-    "title": "V-Negozio",
-    "notes": "",
-    "uid": "2026-07-25-14:00-V-Negozio@effiplan-html"
+    "title": "MALATTIA",
+    "notes": "tag",
+    "uid": "2026-07-25-14:00-MALATTIA@effiplan-html"
   }
 ]
