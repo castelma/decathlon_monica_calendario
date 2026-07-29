@@ -171,22 +171,6 @@
     "uid": "2026-07-31-15:00-V-Negozio@effiplan-pdf"
   },
   {
-    "date": "2026-08-05",
-    "start": "20:30",
-    "end": "21:30",
-    "title": "RIU (RIUNIONE)",
-    "notes": "(RIUNIONE) RIUNIONE (20:30 - 21:30) | Orario: 20:30 - 21:30",
-    "uid": "2026-08-05-20:30-RIU_(RIUNIONE)@effiplan-pdf"
-  },
-  {
-    "date": "2026-08-28",
-    "start": "14:00",
-    "end": "15:00",
-    "title": "COL (COLLOQUIO)",
-    "notes": "(COLLOQUIO) COLLOQUIO (14:00 - 15:00) | Orario: 14:00 - 15:00",
-    "uid": "2026-08-28-14:00-COL_(COLLOQUIO)@effiplan-pdf"
-  },
-  {
     "date": "2026-09-04",
     "end_date": "2026-09-05",
     "start": null,
