@@ -14,5 +14,21 @@
     "title": "MALATTIA",
     "notes": "tag",
     "uid": "2026-08-09-15:00-MALATTIA@effiplan-html"
+  },
+  {
+    "date": "2026-08-12",
+    "start": "09:00",
+    "end": "15:00",
+    "title": "V-Negozio",
+    "notes": "",
+    "uid": "2026-08-12-09:00-V-Negozio@effiplan-html"
+  },
+  {
+    "date": "2026-08-14",
+    "start": "14:00",
+    "end": "20:00",
+    "title": "V-Negozio",
+    "notes": "",
+    "uid": "2026-08-14-14:00-V-Negozio@effiplan-html"
   }
 ]
