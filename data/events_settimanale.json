@@ -1,34 +1,47 @@
 [
   {
-    "date": "2026-08-09",
-    "start": "11:00",
-    "end": "14:00",
-    "title": "MALATTIA",
-    "notes": "tag",
-    "uid": "2026-08-09-11:00-MALATTIA@effiplan-html"
+    "date": "2026-08-10",
+    "end_date": "2026-08-11",
+    "start": null,
+    "end": null,
+    "title": "MATANTICIP",
+    "notes": "",
+    "uid": "2026-08-10-allday-MATANTICIP@effiplan-html"
   },
   {
-    "date": "2026-08-09",
-    "start": "15:00",
-    "end": "19:00",
-    "title": "MALATTIA",
-    "notes": "tag",
-    "uid": "2026-08-09-15:00-MALATTIA@effiplan-html"
+    "date": "2026-08-11",
+    "end_date": "2026-08-12",
+    "start": null,
+    "end": null,
+    "title": "MATANTICIP",
+    "notes": "",
+    "uid": "2026-08-11-allday-MATANTICIP@effiplan-html"
   },
   {
     "date": "2026-08-12",
-    "start": "09:00",
-    "end": "15:00",
-    "title": "V-Negozio",
+    "end_date": "2026-08-13",
+    "start": null,
+    "end": null,
+    "title": "MATANTICIP",
     "notes": "",
-    "uid": "2026-08-12-09:00-V-Negozio@effiplan-html"
+    "uid": "2026-08-12-allday-MATANTICIP@effiplan-html"
+  },
+  {
+    "date": "2026-08-13",
+    "end_date": "2026-08-14",
+    "start": null,
+    "end": null,
+    "title": "MATANTICIP",
+    "notes": "",
+    "uid": "2026-08-13-allday-MATANTICIP@effiplan-html"
   },
   {
     "date": "2026-08-14",
-    "start": "14:00",
-    "end": "20:00",
-    "title": "V-Negozio",
+    "end_date": "2026-08-15",
+    "start": null,
+    "end": null,
+    "title": "MATANTICIP",
     "notes": "",
-    "uid": "2026-08-14-14:00-V-Negozio@effiplan-html"
+    "uid": "2026-08-14-allday-MATANTICIP@effiplan-html"
   }
 ]
